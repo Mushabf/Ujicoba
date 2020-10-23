@@ -63,6 +63,8 @@ class MainPage extends StatelessWidget {
                                   FlatButton(
                                       onPressed: () {}, child: Text("Cencel")),
                                   FlatButton(
+                                      onPressed: () {}, child: Text("exit")),
+                                  FlatButton(
                                       onPressed: () {}, child: Text("exit"))
                                 ],
                               ));
