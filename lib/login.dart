@@ -105,7 +105,7 @@ class _LoginState extends State<Login> {
                   },
                   child: Center(
                     child: Text(
-                      "Masuk",
+                      "Masuk lah",
                       style: TextStyle(fontSize: 20, color: Colors.black),
                     ),
                   ),

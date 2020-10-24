@@ -9,7 +9,7 @@ class Toast extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Ini Toast"),
+          title: Text("Ini Toastt"),
         ),
         body: Container(
           child: Center(

@@ -59,11 +59,11 @@ class MainPage extends StatelessWidget {
                                 content: Text("Ini ALERTDIALOG"),
                                 actions: <Widget>[
                                   FlatButton(
-                                      onPressed: () {}, child: Text("yes")),
+                                      onPressed: () {}, child: Text("yess")),
                                   FlatButton(
                                       onPressed: () {}, child: Text("Cencel")),
                                   FlatButton(
-                                      onPressed: () {}, child: Text("exit")),
+                                      onPressed: () {}, child: Text("exitt")),
                                   FlatButton(
                                       onPressed: () {}, child: Text("exit"))
                                 ],

@@ -20,7 +20,7 @@ class Screen extends StatelessWidget {
                             context: context,
                             builder: (context) => AlertDialog(
                                   title: Text("WARNING"),
-                                  content: Text("JANGAN DIBUKA COY"),
+                                  content: Text("JANGAN DIBUKA COYy"),
                                   actions: <Widget>[
                                     OutlineButton(
                                         onPressed: () {}, child: Text("EXIT")),
