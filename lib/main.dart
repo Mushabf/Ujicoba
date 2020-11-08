@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:toast/Login/login2.dart';
+import 'package:toast/Login/signuppage.dart';
 import 'package:toast/login.dart';
 import 'package:toast/tost.dart';
 
@@ -8,7 +10,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Login(),
+      
+      debugShowCheckedModeBanner: false,
+
+      home: Login2(),
     );
   }
 }
